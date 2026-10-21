@@ -68,6 +68,14 @@ My portfolio website showcasing my skills and work.
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rakesh-star1234&theme=tokyonight)
 
 
+## 🤝 Connect With Me
+
+- 💻 GitHub: [Rakesh-star1234](https://github.com/Rakesh-star1234)
+- 🌐 Portfolio: [Visit My Portfolio](https://rakesh-star1234.github.io/portfolio/)
+- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_PROFILE_URL)
+
+I'm always interested in learning, building projects, and connecting with fellow developers!
+
 
 *Learning every day. Building step by step. Improving through practice.*
 
