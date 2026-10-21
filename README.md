@@ -1,4 +1,19 @@
 
+<div align="center">
+
+# 👋 Hi, I'm Rakesh Kumar
+
+### Aspiring Software Developer | C++ & DSA | Python | AI/ML
+
+Building practical projects, solving problems, and learning every day.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rakesh--star1234-181717?style=for-the-badge&logo=github)](https://github.com/Rakesh-star1234)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rakesh-star1234.github.io/portfolio/)
+
+</div>
+
+---
+
 # Hi, I'm Rakesh Kumar 👋
 
 ### Aspiring Software Developer | C++ | DSA | Python | AI/ML | Web Development
