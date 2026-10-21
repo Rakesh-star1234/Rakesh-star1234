@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Rakesh Kumar
 
-### Aspiring Software Developer | C++ & DSA | Python | AI/ML
+### Aspiring Software Developer | C++ & DSA | Python | AI/ML | Web Development
 
 Building practical projects, solving problems, and learning every day.
 
@@ -14,9 +14,7 @@ Building practical projects, solving problems, and learning every day.
 
 ---
 
-# Hi, I'm Rakesh Kumar 👋
 
-### Aspiring Software Developer | C++ | DSA | Python | AI/ML | Web Development
 
 I'm a Computer Science postgraduate student interested in software development, problem-solving, and Artificial Intelligence.
 
