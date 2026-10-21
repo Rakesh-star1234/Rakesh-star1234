@@ -57,5 +57,17 @@ My portfolio website showcasing my skills and work.
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh-star1234&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-star1234&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rakesh-star1234&theme=tokyonight)
+
+
+
 *Learning every day. Building step by step. Improving through practice.*
 
