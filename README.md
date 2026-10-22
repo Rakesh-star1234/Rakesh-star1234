@@ -89,6 +89,16 @@ My portfolio website showcasing my skills and work.
 
 I'm always interested in learning, building projects, and connecting with fellow developers!
 
+---
+
+## 🏆 Achievements & Learning Goals
+
+- 📚 Strengthening my Data Structures and Algorithms skills using C++.
+- 💻 Building and improving projects through hands-on practice.
+- 🌐 Learning Web Development and creating portfolio projects.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🚀 Preparing for Software Development Engineer opportunities.
+
 
 *Learning every day. Building step by step. Improving through practice.*
 
