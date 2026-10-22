@@ -98,6 +98,16 @@ I'm always interested in learning, building projects, and connecting with fellow
 - 🌐 Learning Web Development and creating portfolio projects.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🚀 Preparing for Software Development Engineer opportunities.
+---
+
+## 🚀 Currently Working On
+
+- 🧩 Practicing C++ and Data Structures & Algorithms for coding interviews.
+- 🐍 Improving Python programming skills through hands-on exercises.
+- 🌐 Developing web development projects and improving my portfolio.
+- 🤖 Learning AI/ML concepts and exploring practical applications.
+- 📈 Improving problem-solving, code quality, and project documentation.
+
 
 
 *Learning every day. Building step by step. Improving through practice.*
