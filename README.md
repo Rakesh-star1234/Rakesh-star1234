@@ -67,7 +67,7 @@ My portfolio website showcasing my skills and work.
 ## 🤝 Connect With Me
 
 - **GitHub:** [Rakesh-star1234](https://github.com/Rakesh-star1234)
-
+               https://www.linkedin.com/in/rakesh-kumar-tech
 ---
 
 ## 📊 GitHub Statistics
